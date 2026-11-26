@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-dushu-defa)
+
 **English**: Zhu Xi's six reading principles made actionable — progressive order, close reading, open-minded immersion, self-examination, effort, and reverence — with a three-layer note method and a six-step process to turn books into reusable rule cards.
 
 ---
